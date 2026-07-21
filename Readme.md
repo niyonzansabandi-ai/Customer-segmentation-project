@@ -127,8 +127,7 @@ Paste this into your portfolio website (e.g., `/projects/customer-segmentation.h
 
     <h2>View the Project</h2>
     <p>
-        <a href="https://github.com/niyonzansabandi-ai/Customer-segmentation-project" target="_blank">
-            View on GitHub →
-        </a>
+        <a href="projects/customer-segmentation.html">Customer Segmentation Project</a>
+
     </p>
 </section>
